@@ -1,11 +1,6 @@
-[![Gunslol](https://cdn.discordapp.com/attachments/1295396399449378839/1306309487866413177/image0.jpg?ex=67363303&is=6734e183&hm=b8932153b112a52197d79542e2feb5893427effbd4b33d537df95867c908506a&)](https://guns.lol/syssec/)
+[![Gunslol](https://cdn.discordapp.com/attachments/1295396399449378839/1306309487866413177/image0.jpg?ex=67363303&is=6734e183&hm=b8932153b112a52197d79542e2feb5893427effbd4b33d537df95867c908506a&)](https://guns.lol/syssec)
 
-[![Discord](https://img.shields.io/github/release/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/releases)
-[![Twitter/X](https://img.shields.io/github/issues/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/issues)
-[![Github Stars](https://img.shields.io/github/stars/1N3/Sn1per.svg?style=social&label=Stars)](https://github.com/1N3/Sn1per/)
-[![GitHub Followers](https://img.shields.io/github/followers/1N3.svg?style=social&label=Follow)](https://github.com/1N3/Sn1per/)
-[![Tweet](https://img.shields.io/twitter/url/http/xer0dayz.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Sn1per%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2F1N3%2FSn1per)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/xer0dayz.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=xer0dayz)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/xer0dayz.svg?style=social&label=Follow)](https://x.com/ImSysSec?t=90drcBLXfjHRU4YRYGrcrg&s=09)
 
 [[Website](https://sn1persecurity.com/wordpress/)] [[Blog](https://sn1persecurity.com/wordpress/blog/)] [[Shop](https://sn1persecurity.com/wordpress/shop)] [[Documentation](https://sn1persecurity.com/wordpress/documentation/)] [[Demo](https://www.youtube.com/c/Sn1perSecurity/videos)] [[Find Out More](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/)]
 
@@ -203,7 +198,7 @@ sniper -u|--update
 
 ## Modes
 
-- **NORMAL:** Performs basic scan of targets and open ports using both active and passive c inhecks for optimal performance.
+- **NORMAL:** Performs basic scan of targets and open ports using both active and passive checks for optimal performance.
 
 - **STEALTH:** Quickly enumerate single targets using mostly non-intrusive scans to avoid WAF/IPS blocking.
 - **FLYOVER:** Fast multi-threaded high level scans of multiple targets (useful for collecting high level data on many hosts quickly).
