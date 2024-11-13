@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm SysSec</h1>
-<h3 align="center">I am a flexible developer.</h3>
+<h3 align="center">I am a Flexible Developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/imsyssec" target="blank"><img src="https://img.shields.io/twitter/follow/imsyssec?logo=twitter&style=for-the-badge" alt="imsyssec" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ImSysSec" target="blank"><img src="https://img.shields.io/twitter/follow/imsyssec?logo=twitter&style=for-the-badge" alt="ImSysSec" /></a> </p>
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Python, Web Lang's(HTML, CSS & JS)**
+- 🌱 I’m currently learning
+**Python, Web Lang's(HTML, CSS & JS)**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [https://gun.lol/syssec](https://gun.lol/syssec)
+- 👨‍💻 My Portfolio [Click](https://gun.lol/syssec)
 
 - 📫 How to reach me **Twitter, Discord or Telegram**
 
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imsyssec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsyssec" height="30" width="40" /></a>
+<a href="https://twitter.com/ImSysSec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ImSysSec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
